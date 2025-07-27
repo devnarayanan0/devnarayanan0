@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React , DSA**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/devnarayanan0](https://linktr.ee/devnarayanan0)
+- 👨‍💻 All of my Details are at [Click Here!](https://linktr.ee/devnarayanan0)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
