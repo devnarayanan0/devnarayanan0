@@ -50,13 +50,9 @@
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=devnarayanan0&show_icons=true&theme=radical&count_private=true" width="400" />
+  <a href="http://www.github.com/devnarayanan0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devnarayanan0&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&layout=compact&theme=radical&langs_count=10&count_private=true" width="305" />
-
+<a href="https://github.com/devnarayanan0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 
 ---
