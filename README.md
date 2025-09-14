@@ -1,45 +1,79 @@
-<h1 align="center">Hi, I'm Dev Narayanan</h1>
-<h3 align="center">Aspiring Software Developer | B.Tech Student with a Passion for Code</h3>
+<h1 align="center">Hi! I'm Dev Narayanan <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> </h1>
+<br>
 
-- 🔭 I’m currently working on **vyom-app**
+<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/devnarayanan0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/devnarayanan0/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/devnarayanan0">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/devnarayanan0">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
+  </a>
+  <a href="https://devash0.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>
+<br>
 
-- 🌱 I’m currently learning **React , DSA**
+### 💫 About Me
 
-- 👨‍💻 All of my Details are at [Click Here!](https://linktr.ee/devnarayanan0)
+- 🎓 Pursuing <mark>Bachelor's in Information Technology</mark> at <mark>Chennai Institute of Technology</mark>, Chennai.
+- 🌱 Exploring **Machine Learning**, **Problem Solving**, and **Data Structures**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devnarayanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devnarayanan0" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_ashh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_ashh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devnarayanan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devnarayanan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devnarayanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devnarayanan0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devnarayanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devnarayanan0" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devnarayanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devnarayanan0" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/devnarayanan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="devnarayanan0" height="30" width="40" /></a>
+---
+
+### 🚀 Notable Projects
+
+| G8 Mock Test Platform | LifeWare Collectives | Claim |
+|----------------------|--------------------|-------|
+| <img src="/Assets/Nexbit Logo.svg" height="80"/> | <img src="/Assets/ffff.png" height="80"/> | <img src="badges/ClaimLogo.png" height="80"/> |
+| **[G8 Mock Test Platform](https://g8-lemon.vercel.app/)** <br> Advanced online examination system for GATE preparation with real-time analytics. | **[LifeWare Collectives](https://lifeware.vercel.app/)** <br> AI-powered platform for blood donor search, donor registration, and health guidance. | **[Claim](https://claim-v2.vercel.app/)** <br> Efficient claim management platform with real-time updates and analytics. |
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,supabase,cpp,python,mongodb,git,kotlin" />
+  </a>
 </p>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" style="margin: 10px;"/>
-</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=devnarayanan0&show_icons=true&theme=radical&count_private=true" width="400" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&layout=compact&theme=radical&langs_count=10&count_private=true" width="305" />
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+| Achievement | Description |
+|------------|-------------|
+| 🥇 **Google Maps Platform Award 2025** | Won in the Community of Sustainability category. |
+| 🏆 **Shortlisted in Regional Round** | Selected in the Regional Round of the World Computer Hacker League. |
+| 🌐 **Top 20 Teams Globally** | Ranked in the top 20 among 250 participants, top 200 among 2500 participants in the World Computer Hacker League. |
+
+---
+
+### 🏅 Digital Badges
+
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
+  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="Microsoft Badge"/>
+  <img src="/Assets/AWSEBadge.png" height="120px" alt="AWS Badge"/>
+</div>
