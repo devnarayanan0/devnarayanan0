@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Notable Projects
+### 🚀 Projects
 
 | G8 Mock Test Platform | LifeWare Collectives | Claim |
 |----------------------|--------------------|-------|
