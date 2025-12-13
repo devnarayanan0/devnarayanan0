@@ -73,3 +73,5 @@
   <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="Microsoft Badge"/>
   <img src="/Assets/AWSEBadge.png" height="120px" alt="AWS Badge"/>
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devnarayanan0&label=Profile%20views&color=0e75b6&style=flat" alt="devnarayanan0" /> </p>
