@@ -39,7 +39,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,pandas,azure,dotnet,django,react,nextjs,js,cpp,python,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,azure,dotnet,django,react,nextjs,js,cpp,python,mongodb,git" />
   </a>
 </p>
 
