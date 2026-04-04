@@ -14,7 +14,7 @@
   <a href="https://www.codechef.com/users/devnarayanan0">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
   </a>
-  <a href="https://devash0.vercel.app/">
+  <a href="https://devnarayanan0.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
@@ -39,7 +39,7 @@
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,azure,dotnet,django,react,nextjs,js,cpp,python,mongodb,git" />
+    <img src="https://skillicons.dev/icons?i=aws,pytorch,tensorflow,azure,dotnet,django,react,nextjs,js,cpp,python,mongodb,git" />
   </a>
 </p>
 
