@@ -73,7 +73,7 @@
   <img src="/Assets/Microsoft Certified Associate Badge.png" height="120px" alt="AZ204"/>
   <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="AZ900"/>
   <img src="/Assets/AWSEBadge.png" height="120px" alt="AWS Badge"/>
-  <img src="/Assets/AI_Fundamentals cred  .png" height="120px" alt="IMB Badge"/>
+  <img src="/Assets/AI_Fundamentals cred.png" height="120px" alt="IMB Badge"/>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devnarayanan0&label=Profile%20views&color=0e75b6&style=flat" alt="devnarayanan0" /> </p>
