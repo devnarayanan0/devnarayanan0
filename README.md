@@ -1,79 +1,169 @@
-<h1 align="center">Hi! I'm Dev Narayanan <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" style="height:25px;" height="25"/> </h1>
-<br>
+<div align="center">
 
-<div align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/devnarayanan0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/u/devnarayanan0/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://codeforces.com/profile/devnarayanan0">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-  </a>
-  <a href="https://www.codechef.com/users/devnarayanan0">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"/>
-  </a>
-  <a href="https://devnarayanan0.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:ff930f,100:fff95b&height=220&section=header&text=Dev%20Narayanan&fontSize=56&fontColor=000000&animation=typing&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%7C%20Backend%20Dev%20%7C%20Pattern%20Solver&descAlignY=60&descSize=17&descColor=1a1a1a&descAlign=50" width="100%"/>
+
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnarayanan0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devnarayanan0.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/devnarayanan0/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/devnarayanan0)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/devnarayanan0)
+
 </div>
-<br>
-
-### 💫 About Me
-
-- 🎓 Pursuing <mark>Bachelor's in Information Technology</mark> at <mark>Chennai Institute of Technology</mark>, Chennai.
-- 🌱 Exploring **Machine Learning**, **Problem Solving**, and **Data Structures**.
 
 ---
 
-### 🚀 Projects
+## About Me
 
-| G8 Mock Test Platform | LifeWare Collectives | Claim |
-|----------------------|--------------------|-------|
-| <img src="/Assets/Nexbit Logo.svg" height="80"/> | <img src="/Assets/ffff.png" height="80"/> | <img src="badges/ClaimLogo.png" height="80"/> |
-| **[G8 Mock Test Platform](https://g8-lemon.vercel.app/)** <br> Advanced online examination system for GATE preparation with real-time analytics. | **[LifeWare Collectives](https://lifeware.vercel.app/)** <br> AI-powered platform for blood donor search, donor registration, and health guidance. | **[Claim](https://claim-v2.vercel.app/)** <br> Efficient claim management platform with real-time updates and analytics. |
+I build things with AI — RAG pipelines, autonomous agents, real-time systems, and full-stack apps. Most of my projects start with a problem I find annoying and end with something I can actually ship.
 
----
-
-### 🛠 Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,pytorch,tensorflow,azure,dotnet,django,react,nextjs,js,cpp,python,mongodb,git" />
-  </a>
-</p>
+- 🧠 Lately into: **LLM orchestration**, **vector search**, and **AI agents**
+- ⛓️ Also dabble in: **blockchain**, **computer vision**, and **real-time data systems**
+- 🛠️ I like code that runs in production, not just in demos
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<img src="/Assets/g8-preview.png" alt="G8 Mock Test Platform" width="100%" style="border-radius:8px"/>
+
+### G8 Mock Test Platform
+**Online Examination System for GATE Prep**
+
+`React` `Node.js` `PostgreSQL` `Express.js`
+
+Advanced online examination platform for GATE aspirants with real-time analytics, adaptive test generation, and performance tracking.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="/Assets/charai-preview.png" alt="CHAR.A.I" width="100%" style="border-radius:8px"/>
+
+### CHAR.A.I
+**RAG-powered WhatsApp Academic Assistant**
+
+`n8n` `GCP` `Pinecone` `OpenAI` `WhatsApp Cloud API`
+
+Built a full RAG pipeline that chunks, embeds, and retrieves documents from a vector DB — enabling instant academic Q&A directly inside WhatsApp.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="/Assets/solidworks-preview.png" alt="SOLIDWORKS Classifier" width="100%" style="border-radius:8px"/>
+
+### SOLIDWORKS Classifier
+**Industrial Component Recognition System**
+
+`YOLOv5` `R-CNN` `OpenCV` `Python`
+
+Lightweight YOLO-based model to classify mechanical components in industrial environments — optimized for accuracy and real-world deployment.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnarayanan0&stroke=ffffff&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devnarayanan0&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117" height="130"/>
+</div>
+
+---
+
+## Achievements
+
+```
+🥇  Google Maps Platform Awards 2025     →  1st Place, Sustainability Category
+🎯  IIM Indore Hackwise 2026             →  Top 10 / 2500 Teams (Finalist)
+🌐  World Computer Hacker League         →  National Round Shortlist
+🤖  InnovAItion @ DAIICT                 →  Finalist, Fintech Track
+📈  LeetCode                             →  Top 8% Globally | Peak Rating 1835 | 550+ Problems
+⭐  CodeChef                             →  2 Star | Rating 1400+
+```
+
+---
+
+## Certifications
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <a href="http://www.github.com/devnarayanan0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devnarayanan0&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+| Certification | Issuer |
+|--------------|--------|
+| ![Azure](https://img.shields.io/badge/-Azure_Developer_Associate_(AZ‑204)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft |
+| ![Azure](https://img.shields.io/badge/-Azure_Fundamentals_(AZ‑900)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Microsoft |
+| ![Anthropic](https://img.shields.io/badge/-Claude_Certified_Architect-CC785C?style=flat-square&logo=anthropic&logoColor=white) | Anthropic |
+| ![Oracle](https://img.shields.io/badge/-OCI_2025_Foundational_Associate-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle |
+| ![Oracle](https://img.shields.io/badge/-Oracle_Data_Platform_2025_Foundational-F80000?style=flat-square&logo=oracle&logoColor=white) | Oracle |
+| ![Cisco](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cisco |
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&langs_count=10&title_color=22c55e&text_color=ffffff&bg_color=1c1917&hide_border=true&custom_title=Top%20Languages)](https://github.com/devnarayanan0)
 </div>
 
 ---
 
-### 🏆 Achievements
+## Badges
 
-| Achievement | Description |
-|------------|-------------|
-| 🥇 **Google Maps Platform Award 2025** | Won in the Community of Sustainability category. |
-| 🏆 **Shortlisted in Regional Round** | Selected in the Regional Round of the World Computer Hacker League. |
-| 🌐 **Top 20 Teams Globally** | Ranked in the top 20 among 250 participants, top 200 among 2500 participants in the World Computer Hacker League. |
+<div align="center">
+  <img src="/Assets/Microsoft Certified Associate Badge.png" height="100px" alt="AZ-204"/>
+  &nbsp;&nbsp;
+  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="100px" alt="AZ-900"/>
+  &nbsp;&nbsp;
+  <img src="/Assets/AWSEBadge.png" height="100px" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="/Assets/AI_Fundamentals cred.png" height="100px" alt="AI Fundamentals"/>
+</div>
 
 ---
 
-### 🏅 Digital Badges
+<div align="center">
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
-  <img src="/Assets/Microsoft Certified Associate Badge.png" height="120px" alt="AZ204"/>
-  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="AZ900"/>
-  <img src="/Assets/AWSEBadge.png" height="120px" alt="AWS Badge"/>
-  <img src="/Assets/AI_Fundamentals cred.png" height="120px" alt="IMB Badge"/>
+**devnarayananmp@outlook.com**
+
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devnarayanan0&label=Profile%20views&color=0e75b6&style=flat" alt="devnarayanan0" /> </p>
