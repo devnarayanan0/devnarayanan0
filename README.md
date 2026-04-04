@@ -70,7 +70,8 @@
 ### 🏅 Digital Badges
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
-  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="Microsoft Badge"/>
+  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="AZ204"/>
+  <img src="/Assets/Microsoft Certified Fundamentals Badge.png" height="120px" alt="AZ900"/>
   <img src="/Assets/AWSEBadge.png" height="120px" alt="AWS Badge"/>
 </div>
 
