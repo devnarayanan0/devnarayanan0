@@ -30,6 +30,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 <table>
 <tr>
 <td width="33%" valign="top">
+<br/>
 
 <img src="/Assets/g8-preview.png" alt="G8 Mock Test Platform" width="100%" style="border-radius:8px"/>
 
@@ -38,10 +39,10 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 
 `React` `Node.js` `PostgreSQL` `Express.js`
 
-Advanced online examination platform for GATE aspirants with real-time analytics, adaptive test generation, and performance tracking.
-
+<br/>
 </td>
 <td width="33%" valign="top">
+<br/>
 
 <img src="/Assets/charai-preview.png" alt="CHAR.A.I" width="100%" style="border-radius:8px"/>
 
@@ -50,10 +51,10 @@ Advanced online examination platform for GATE aspirants with real-time analytics
 
 `n8n` `GCP` `Pinecone` `OpenAI` `WhatsApp Cloud API`
 
-Built a full RAG pipeline that chunks, embeds, and retrieves documents from a vector DB — enabling instant academic Q&A directly inside WhatsApp.
-
+<br/>
 </td>
 <td width="33%" valign="top">
+<br/>
 
 <img src="/Assets/solidworks-preview.png" alt="SOLIDWORKS Classifier" width="100%" style="border-radius:8px"/>
 
@@ -62,7 +63,7 @@ Built a full RAG pipeline that chunks, embeds, and retrieves documents from a ve
 
 `YOLOv5` `R-CNN` `OpenCV` `Python`
 
-Lightweight YOLO-based model to classify mechanical components in industrial environments — optimized for accuracy and real-world deployment.
+<br/>
 
 </td>
 </tr>
