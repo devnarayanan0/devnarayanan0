@@ -13,7 +13,7 @@
 
 </div>
 
----
+<br/>
 
 ## About Me
 
@@ -23,7 +23,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 - ⛓️ Also dabble in: **blockchain**, **computer vision**, and **real-time data systems**
 - 🛠️ I like code that runs in production, not just in demos
 
----
+<br/>
 
 ## Featured Projects
 
@@ -69,7 +69,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 </tr>
 </table>
 
----
+<br/>
 
 ## Tech Stack
 
@@ -104,35 +104,18 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnarayanan0&stroke=ffffff&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=devnarayanan0&show_icons=true&theme=github_dark&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117" height="130"/>
 </div>
 
----
+<br/>
 
-## Achievements
-
-```
-🥇  Google Maps Platform Awards 2025     →  1st Place, Sustainability Category
-🎯  IIM Indore Hackwise 2026             →  Top 10 / 2500 Teams (Finalist)
-🌐  World Computer Hacker League         →  National Round Shortlist
-🤖  InnovAItion @ DAIICT                 →  Finalist, Fintech Track
-📈  LeetCode                             →  Top 8% Globally | Peak Rating 1835 | 550+ Problems
-⭐  CodeChef                             →  2 Star | Rating 1400+
-```
-
----
-
-## Certifications
+## Certifications & Badges
 
 <div align="center">
 
@@ -146,11 +129,6 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 | ![Cisco](https://img.shields.io/badge/-CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cisco |
 
 </div>
-
----
-
-## Badges
-
 <div align="center">
   <img src="/Assets/Microsoft Certified Associate Badge.png" height="100px" alt="AZ-204"/>
   &nbsp;&nbsp;
@@ -161,10 +139,21 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
   <img src="/Assets/AI_Fundamentals cred.png" height="100px" alt="AI Fundamentals"/>
 </div>
 
----
+<br/>
 
-<div align="center">
+## Achievements
 
-**devnarayananmp@outlook.com**
+```
+🥇  Google Maps Platform Awards 2025     →  1st Place, Sustainability Category
+🎯  IIM Indore Hackwise 2026             →  Top 10 / 2500 Teams (Finalist)
+🌐  World Computer Hacker League         →  National Round Shortlist
+🤖  InnovAItion @ DAIICT                 →  Finalist, Fintech Track
+📈  LeetCode                             →  Top 8% Globally | Peak Rating 1835 | 550+ Problems
+⭐  CodeChef                             →  2 Star | Rating 1400+
+```
 
-</div>
+
+
+
+
+
