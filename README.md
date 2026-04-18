@@ -32,7 +32,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 <td width="33%" valign="top">
 <br/>
 
-<img src="/Assets/g8-preview.png" alt="G8 Mock Test Platform" width="100%" style="border-radius:8px"/>
+<img src="/Assets/Nexbit Logo.svg" alt="G8 Mock Test Platform" width="100%" style="border-radius:8px"/>
 
 ### G8 Mock Test Platform
 **Online Examination System for GATE Prep**
@@ -44,7 +44,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 <td width="33%" valign="top">
 <br/>
 
-<img src="/Assets/charai-preview.png" alt="CHAR.A.I" width="100%" style="border-radius:8px"/>
+<img src="/Assets/CHAR.A.I.png" alt="CHAR.A.I" width="100%" style="border-radius:8px"/>
 
 ### CHAR.A.I
 **RAG-powered WhatsApp Academic Assistant**
