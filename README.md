@@ -56,7 +56,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 <td width="33%" valign="top">
 <br/>
 
-<img src="/Assets/solidworks-preview.png" alt="SOLIDWORKS Classifier" width="100%" style="border-radius:8px"/>
+<img src="/Assets/dd.png" alt="SOLIDWORKS Classifier" width="100%" style="border-radius:8px"/>
 
 ### SOLIDWORKS Classifier
 **Industrial Component Recognition System**
