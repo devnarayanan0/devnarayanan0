@@ -141,17 +141,6 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 
 <br/>
 
-## Achievements
-
-```
-🥇  Google Maps Platform Awards 2025     →  1st Place, Sustainability Category
-🎯  IIM Indore Hackwise 2026             →  Top 10 / 2500 Teams (Finalist)
-🌐  World Computer Hacker League         →  National Round Shortlist
-🤖  InnovAItion @ DAIICT                 →  Finalist, Fintech Track
-📈  LeetCode                             →  Top 8% Globally | Peak Rating 1835 | 550+ Problems
-⭐  CodeChef                             →  2 Star | Rating 1400+
-```
-
 
 
 
