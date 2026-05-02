@@ -19,10 +19,6 @@
 
 I build things with AI — RAG pipelines, autonomous agents, real-time systems, and full-stack apps. Most of my projects start with a problem I find annoying and end with something I can actually ship.
 
-- 🧠 Lately into: **LLM orchestration**, **vector search**, and **AI agents**
-- ⛓️ Also dabble in: **blockchain**, **computer vision**, and **real-time data systems**
-- 🛠️ I like code that runs in production, not just in demos
-
 <br/>
 
 ## Featured Projects
