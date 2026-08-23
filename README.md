@@ -104,24 +104,20 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnarayanan0&show_icons=true&theme=github_dark_dimmed&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&bg_color=0d1117&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devnarayanan0&stroke=ffffff&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&currStreakLabel=38bdf8&sideNums=ffffff&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnarayanan0&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117" height="180"/>
-</div>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devnarayanan0&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff"
+    width="90%"
+  />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devnarayanan0&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" height="180"/>
-</div>
+  <br/>
+  <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+  <img
+    src="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-contribution-grid-snake.svg"
+    width="90%"
+  />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devnarayanan0&color=38bdf8&style=flat-square&label=Profile+Views"/>
 </div>
 
 <br/>
