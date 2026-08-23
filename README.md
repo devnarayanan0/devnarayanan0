@@ -111,13 +111,10 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
   />
 
   <br/>
-  <br/>
-
-  <img
-    src="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-contribution-grid-snake.svg"
-    width="90%"
-  />
-
+ <img
+  src="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-contribution-grid-snake-dark.svg"
+  width="90%"
+/>
 </div>
 
 <br/>
