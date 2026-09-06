@@ -92,14 +92,13 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 
 ## GitHub Stats
 
-<div align="center">
 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-snake.svg" />
     <img alt="GitHub contributions snake" src="https://raw.githubusercontent.com/devnarayanan0/devnarayanan0/output/github-snake.svg" width="100%" />
   </picture>
-
 </div>
 
 <br/>
