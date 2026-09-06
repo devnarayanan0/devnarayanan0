@@ -30,7 +30,7 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 ###
 
 
-[![Website](https://img.shields.io/badge/Visit_Website-009688?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Visit_Website-009688?style=for-the-badge&logo=googlechrome&logoColor=white)](devsync-landing.vercel.app)
 [![macOS](https://img.shields.io/badge/Try_on_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Try_on_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Repo](https://img.shields.io/badge/View_Repo-6e5494?style=for-the-badge&logo=github&logoColor=white)](#)
