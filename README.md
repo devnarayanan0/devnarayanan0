@@ -38,13 +38,15 @@ I build things with AI — RAG pipelines, autonomous agents, real-time systems, 
 ### 
 **Bi-directional file synchronization between local folders and tenant-based Blob Storage, keeping local files and cloud data continuously consistent.**
 
+ `Spring Boot` `SQLite` `Azure Blob Storage` `Amazon S3` `Electron` `React`
+
+</div>
+
 - **Bi-directional Synchronization** — Detects local and remote changes and synchronizes files in both directions.
 - **Tenant Blob Storage** — Connects each synchronization request to its configured tenant and cloud storage location.
 - **Automated & Scheduled Sync** — Supports real-time folder watching and scheduled synchronization with local queuing and retry handling.
 
- `Spring Boot` `SQLite` `Azure Blob Storage` `Amazon S3` `Electron` `React`
 
-</div>
 
 <br/>
 
